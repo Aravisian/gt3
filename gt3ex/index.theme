@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=GT3EX
+Comment=A theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=GT3ex
+MetacityTheme=GT3EX
+ButtonLayout=menu:minimize,maximize,close
